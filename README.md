@@ -42,3 +42,14 @@ Uploading thousands of corporate tax XMLs (`NF-e`, `NFS-e`, `CT-e`) to public cl
 │  │     Immutable SHA-256 Golden Audit Ledger           │  │
 │  └─────────────────────────────────────────────────────┘  │
 └───────────────────────────────────────────────────────────┘
+git clone [https://github.com/ferreirajacicley7-cpu/starcrow-sovereign-fiscal-core.git](https://github.com/ferreirajacicley7-cpu/starcrow-sovereign-fiscal-core.git)
+cd starcrow-sovereign-fiscal-core
+python3 fiscal_auditor_cli.py --xml sample_nfe_sefaz.xml
+🤝 Enterprise Deployment & Pilot Diagnostics (50 XMLs)
+This repository hosts the open reference CLI and schema validator. For full Dedicated Private Node deployment, ERP integration, and custom tax rule packs:
+
+Company: Starcrow Tech (Intelligent Automation & Sovereign Infrastructure)
+
+Founder & CVO: Jacicley Ferreira (LinkedIn)
+
+Direct Contact: starcrowtech@gmail.com | Telegram: @starcrow_tech
