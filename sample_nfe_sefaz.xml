@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00">
+  <NFe>
+    <infNFe Id="NFe15261158492108000194550010000010421987654321" versao="4.00">
+      <ide>
+        <cUF>15</cUF>
+        <natOp>VENDA DE PRODUCAO DO ESTABELECIMENTO</natOp>
+        <mod>55</mod>
+        <nNF>1042</nNF>
+        <dhEmi>2026-11-19T10:30:00-03:00</dhEmi>
+      </ide>
+      <emit>
+        <CNPJ>58492108000194</CNPJ>
+        <xNome>AGROINDUSTRIA PARAENSE DEMO LTDA</xNome>
+      </emit>
+      <det nItem="1">
+        <prod>
+          <cProd>ACAI-001</cProd>
+          <xProd>POLPA DE ACAI PASTEURIZADA EXPORTACAO</xProd>
+          <NCM>20089900</NCM>
+          <CFOP>5101</CFOP>
+          <vProd>22500.00</vProd>
+        </prod>
+        <imposto>
+          <ICMS><ICMS00><CST>00</CST><vICMS>3825.00</vICMS></ICMS00></ICMS>
+          <PIS><PISAliq><vPIS>371.25</vPIS></PISAliq></PIS>
+          <COFINS><COFINSAliq><vCOFINS>1710.00</vCOFINS></COFINSAliq></COFINS>
+        </imposto>
+      </det>
+      <det nItem="2">
+        <prod>
+          <cProd>MAQ-002</cProd>
+          <xProd>DESPOLPADEIRA INOX INDUSTRIAL</xProd>
+          <NCM>00000000</NCM>
+          <CFOP>5101</CFOP>
+          <vProd>17000.00</vProd>
+        </prod>
+        <imposto>
+          <ICMS><ICMS00><CST>00</CST><vICMS>2890.00</vICMS></ICMS00></ICMS>
+          <PIS><PISAliq><vPIS>280.50</vPIS></PISAliq></PIS>
+          <COFINS><COFINSAliq><vCOFINS>1292.00</vCOFINS></COFINSAliq></COFINS>
+        </imposto>
+      </det>
+      <det nItem="3">
+        <prod>
+          <cProd>INS-003</cProd>
+          <xProd>EMBALAGEM TERMICA INDUSTRIAL</xProd>
+          <NCM>39232190</NCM>
+          <CFOP>5102</CFOP>
+          <vProd>14500.00</vProd>
+        </prod>
+        <imposto>
+          <ICMS><ICMS40><CST>40</CST><vICMS>0.00</vICMS></ICMS40></ICMS>
+          <PIS><PISAliq><vPIS>239.25</vPIS></PISAliq></PIS>
+          <COFINS><COFINSAliq><vCOFINS>1102.00</vCOFINS></COFINSAliq></COFINS>
+        </imposto>
+      </det>
+    </infNFe>
+  </NFe>
+</nfeProc>
